@@ -1,0 +1,6 @@
+{
+  "name": "SOC Incident Case Management Platform",
+  "description": "Enterprise Security Operations Center (SOC) Incident Case Management Platform with tiered L1/L2 workflows, AI IR Copilot, and Admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
